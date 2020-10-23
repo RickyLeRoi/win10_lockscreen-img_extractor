@@ -1,0 +1,11 @@
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/bin/Debug/netcoreapp3.1/lockScreenExtract.deps.json
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/bin/Debug/netcoreapp3.1/lockScreenExtract.runtimeconfig.json
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/bin/Debug/netcoreapp3.1/lockScreenExtract.runtimeconfig.dev.json
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/bin/Debug/netcoreapp3.1/lockScreenExtract.dll
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/bin/Debug/netcoreapp3.1/lockScreenExtract.pdb
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.AssemblyInfoInputs.cache
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.AssemblyInfo.cs
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.csproj.CoreCompileInputs.cache
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.dll
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.pdb
+/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.genruntimeconfig.cache
