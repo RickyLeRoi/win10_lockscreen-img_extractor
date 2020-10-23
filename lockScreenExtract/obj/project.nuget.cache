@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfYaUF+XqzuL9HPOizf/fvGO2RGR7V4okm/65AbYXQqlFra6axcwqKfLjWfqhwX4gfyl5vE4f3SbTEe+1OmGyg==",
+  "dgSpecHash": "cl1CWRtqXGJX2nlLfMRCruOz9YlT2IXm6wNtEFea2x08BX5vXhsRnE/n3NYwgGmKd0C6R9DZeV7c6+HOKXcRUA==",
   "success": true,
-  "projectFilePath": "/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/lockScreenExtract.csproj",
+  "projectFilePath": "C:\\Users\\ricca\\Desktop\\win10_lockscreen-img_extractor-main\\lockScreenExtract\\lockScreenExtract.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

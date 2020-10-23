@@ -9,3 +9,16 @@
 /Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.dll
 /Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.pdb
 /Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/Debug/netcoreapp3.1/lockScreenExtract.genruntimeconfig.cache
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\bin\Debug\netcoreapp3.1\lockScreenExtract.exe
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\bin\Debug\netcoreapp3.1\lockScreenExtract.deps.json
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\bin\Debug\netcoreapp3.1\lockScreenExtract.runtimeconfig.json
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\bin\Debug\netcoreapp3.1\lockScreenExtract.runtimeconfig.dev.json
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\bin\Debug\netcoreapp3.1\lockScreenExtract.dll
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\bin\Debug\netcoreapp3.1\lockScreenExtract.pdb
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.csprojAssemblyReference.cache
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.AssemblyInfoInputs.cache
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.AssemblyInfo.cs
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.csproj.CoreCompileInputs.cache
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.dll
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.pdb
+C:\Users\ricca\Desktop\win10_lockscreen-img_extractor-main\lockScreenExtract\obj\Debug\netcoreapp3.1\lockScreenExtract.genruntimeconfig.cache

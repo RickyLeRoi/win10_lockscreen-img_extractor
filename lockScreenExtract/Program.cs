@@ -21,11 +21,22 @@ namespace lockScreenExtract
 
                 string imgPath = string.Format(@"C:\Users\{0}\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets", Environment.UserName);
                 string currentPath = Directory.GetCurrentDirectory();
+                string targetPath = Path.Join(currentPath, "LockScreens");
                 string[] files = Directory.GetFiles(imgPath);
 
+                Console.WriteLine("Extracting files in folder 'LockScreens' under path {0}...", currentPath);
+                if (!Directory.Exists(targetPath))
+                {
+                    Console.WriteLine("Creating folder...");
+                    Directory.CreateDirectory(targetPath);
+                }
                 foreach (string filePath in files)
                 {
-                    Console.WriteLine(filePath);
+                    long fileLength = new FileInfo(filePath).Length;
+                    if (fileLength/1024 < 200) continue;
+                    string fileName = Path.GetFileName(filePath);
+                    string targetFileName = Path.Combine(targetPath, fileName + ".jpg");
+                    File.Copy(filePath, targetFileName, true);
                 }
             }
             catch (Exception ex)

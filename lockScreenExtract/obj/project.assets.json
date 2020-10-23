@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/riccardogiordano/.nuget/packages/": {}
+    "C:\\Users\\ricca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/lockScreenExtract.csproj",
+      "projectUniqueName": "C:\\Users\\ricca\\Desktop\\win10_lockscreen-img_extractor-main\\lockScreenExtract\\lockScreenExtract.csproj",
       "projectName": "lockScreenExtract",
-      "projectPath": "/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/lockScreenExtract.csproj",
-      "packagesPath": "/Users/riccardogiordano/.nuget/packages/",
-      "outputPath": "/Users/riccardogiordano/Projects/lockScreenExtract/lockScreenExtract/obj/",
+      "projectPath": "C:\\Users\\ricca\\Desktop\\win10_lockscreen-img_extractor-main\\lockScreenExtract\\lockScreenExtract.csproj",
+      "packagesPath": "C:\\Users\\ricca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricca\\Desktop\\win10_lockscreen-img_extractor-main\\lockScreenExtract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/riccardogiordano/.config/NuGet/NuGet.Config"
+        "C:\\Users\\ricca\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
