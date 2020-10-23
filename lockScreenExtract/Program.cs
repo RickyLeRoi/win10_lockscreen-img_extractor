@@ -11,11 +11,11 @@ namespace lockScreenExtract
 
             try
             {
-                if (Environment.OSVersion.Version.Major < 10) {
-                    Console.WriteLine("You need at least Windows 10");
-                    Console.ReadKey();
-                    return;
-                }
+                // if (Environment.OSVersion.Version.Major < 10) {
+                //     Console.WriteLine("You need at least Windows 10");
+                //     Console.ReadKey();
+                //     return;
+                // }
                 Console.WriteLine("Windows version -> " + Environment.OSVersion.Version.ToString());
                 Console.WriteLine("Logged user is -> " + Environment.UserName);
 
